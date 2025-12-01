@@ -161,6 +161,9 @@ Tools        →  404ping · FuzzBrust · Socky · 404cli
   <a href="https://github.com/toklas495">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+ <a href="https://dev.to/toklas495">
+     <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
+ </a>
 </p>
 
 ---
