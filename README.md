@@ -33,10 +33,10 @@ Postman kept crashing. Curl has no memory. So I built something in between — f
 
 ---
 
-### [FuzzBrust](https://github.com/toklas495/fuzzbrust)
-> *API Fuzzer built for overnight hunting*
+### [404fuzz](https://github.com/toklas495/404fuzz)
+> *404fuzz — fuzz with a brain*
 
-I needed to fuzz 100+ endpoints with thousands of payloads while I sleep. Nothing existed. So I wrote it in Python. Fast. Brutal. Effective.
+A blazing-fast, multi-core HTTP fuzzing tool written in Node.js. Like an ant, 404fuzz never gets tired.
 
 ---
 
