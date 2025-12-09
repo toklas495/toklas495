@@ -47,13 +47,6 @@ Deep in HTTP smuggling research, I needed a specialized editor. Built it from sc
 
 ---
 
-### [404nation](https://github.com/toklas495/404nation)
-> *Security news aggregator + Markdown blog platform*
-
-Aggregates daily security news from HackerOne, Reddit, GitHub, Project Discovery — all in one place. Plus a clean markdown-based blogging system.
-
----
-
 ### [404cli](https://github.com/toklas495/404cli)
 > *Command line interface for 404nation*
 
