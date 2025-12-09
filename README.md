@@ -40,7 +40,7 @@ A blazing-fast, multi-core HTTP fuzzing tool written in Node.js. Like an ant, 40
 
 ---
 
-### [Socky.py](https://github.com/toklas495/socky)
+### [Socky.py](https://github.com/toklas495/tools/tree/main/socky)
 > *Request Smuggling Attack Editor*
 
 Deep in HTTP smuggling research, I needed a specialized editor. Built it from scratch.
