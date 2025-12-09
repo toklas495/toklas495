@@ -103,7 +103,7 @@ My formula: *Download book → Read → Practice → Build projects → Repeat*
 - 🧘 Ancient wisdom meets modern life
 - 💰 Building passive income through creation
 
-**Read my articles →** [medium.com/@toklas495](https://medium.com/@toklas495)
+**Read my articles →** [medium.com/@toklas495](https://medium.com/@toklas495) | [dev.to/@toklas495](https://dev.to/toklas495)
 
 ---
 
