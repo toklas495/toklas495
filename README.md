@@ -1,177 +1,154 @@
-# Nimesh Thakur
-### @toklas495
+<div align="center">
 
-**API Security Researcher | Tool Builder | Backend Developer | Seeker**
+```
+ _        _    _           _  _   ___  ____  
+| |_ ___ | | _| | __ _ ___| || | / _ \| ___| 
+| __/ _ \| |/ / |/ _` / __| || || (_) |___ \ 
+| || (_) |   <| | (_| \__ \__   _\__, |___) |
+ \__\___/|_|\_\_|\__,_|___/  |_|   /_/|____/ 
+```
 
-> *"I don't find tools — I build them."*
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=whoami;VAPT+Penetration+tester+%7C+Bug+Bounty+Hunter;web+%2F+api+%2F+mobile+%2F+network+%2F+thick+client;Find+bugs.+Report.+Repeat." alt="Typing SVG" />
 
-I'm the kind of developer who loses sleep over a problem, then builds a tool so I can finally rest. Bug hunter turned backend engineer, currently deep in Node.js authentication systems. When I'm not breaking APIs, I'm reading ancient texts trying to understand why we're all here.
+</div>
+
+<br>
+
+```
+$ whoami
+nimesh thakur (@toklas495)
+21 years old. VAPT — web, api, mobile, network, thick client.
+read a lot, build small tools when something's missing,
+write down what i learn so i don't learn it twice.
+```
+
+<br>
+
+<div align="center">
+
+![Profile views](https://komarev.com/ghpvc/?username=toklas495&color=39FF14&style=flat-square&label=visitors)
+![GitHub followers](https://img.shields.io/github/followers/toklas495?style=flat-square&color=39FF14&labelColor=000000)
+
+</div>
 
 ---
 
-## 🧠 My Philosophy
+### `~/skills`
 
-```
-Problem exists → Search for solution → No good tool? → Build it myself → Sleep peacefully
-```
+<div align="center">
 
-I don't believe in waiting. I believe in shipping.
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=39FF14)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=39FF14)
+![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=39FF14)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=39FF14)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=39FF14)
+![Android](https://img.shields.io/badge/Android-000000?style=for-the-badge&logo=android&logoColor=39FF14)
+
+</div>
 
 ---
 
-## 🛠️ Tools I've Built
+```
+$ cat scope.txt
+[+] web         - auth bypass, IDOR, business logic
+[+] api         - REST/GraphQL, broken access control
+[+] mobile      - android internals, runtime manipulation
+[+] network     - internal pentest, AD attack paths
+[+] thick client - reverse engineering, traffic interception
+```
 
-### [404ping](https://github.com/toklas495/404ping)
-> *Lightweight API testing CLI — curl with a brain*
+---
 
-Postman kept crashing. Curl has no memory. So I built something in between — fast, offline, with variables and collections.
+### `~/tools`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[404ping](https://github.com/toklas495/404ping)**
+> curl with a brain
+
+Postman kept crashing. Curl has no memory. Built the in-between — variables, collections, offline.
 
 ```bash
-404ping set host:https://api.target.com token:secret -g
 404ping run myapp:login
 ```
 
----
+</td>
+<td width="50%" valign="top">
 
-### [404fuzz](https://github.com/toklas495/404fuzz)
-> *404fuzz — fuzz with a brain*
+**[404fuzz](https://github.com/toklas495/404fuzz)**
+> fuzz with a brain
 
-A blazing-fast, multi-core HTTP fuzzing tool written in Node.js. Like an ant, 404fuzz never gets tired.
-
----
-
-### [Socky.py](https://github.com/toklas495/tools/tree/main/socky)
-> *Request Smuggling Attack Editor*
-
-Deep in HTTP smuggling research, I needed a specialized editor. Built it from scratch.
-
----
-
-### [404cli](https://github.com/toklas495/404cli)
-> *Command line interface for 404nation*
-
-Why open a browser? Post, search, and manage your 404nation blog straight from terminal.
+Multi-core HTTP fuzzer in Node.js. Like an ant — never gets tired.
 
 ```bash
-404cli post ./my-writeup.md
-404cli search "IDOR"
+404fuzz https://target/FUZZ -w list.txt
 ```
 
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[PwnLog](https://github.com/toklas495/pwnlog)**
+> one hotkey, zero friction
+
+`ALT+SHIFT+Z` → note what you found → back to hacking in 5 seconds. Timestamp, screenshot, markdown journal — all automatic.
+
+</td>
+<td width="50%" valign="top">
+
+**[Socky.py](https://github.com/toklas495/tools/tree/main/socky)**
+> request smuggling editor
+
+Built mid-research because nothing else fit the workflow.
+
+</td>
+</tr>
+</table>
+
 ---
 
-## 🎯 What I Do
+### `~/notes`
 
-| Area | Focus |
-|------|-------|
-| 🔐 **API Security** | Breaking REST APIs, finding auth flaws |
-| 🛠️ **Tool Building** | Python & Node.js CLI tools for hackers |
-| 🔑 **Backend** | Authentication & Authorization systems (Node.js) |
-| ✍️ **Writing** | Bug bounty writeups, tech blogs, ancient wisdom |
+**[hacknotes](https://github.com/toklas495/hacknotes)** — written for my future self, who forgets everything
+
+- [`/MOBILE/ANDROID_INTERNALS`](https://github.com/toklas495/hacknotes/tree/main/MOBILE/ANDROID_INTERNALS)
+- [`/XXE`](https://github.com/toklas495/hacknotes/tree/main/XXE)
 
 ---
 
-## 📚 The Journey
+### `~/writing`
+
+[![dev.to](https://img.shields.io/badge/dev.to-toklas495-000000?style=flat-square&logo=devdotto&logoColor=39FF14)](https://dev.to/toklas495)
+[![Hashnode](https://img.shields.io/badge/Hashnode-toklas495-000000?style=flat-square&logo=hashnode&logoColor=39FF14)](https://toklas495.hashnode.dev)
+[![Medium](https://img.shields.io/badge/Medium-%40toklas495-000000?style=flat-square&logo=medium&logoColor=39FF14)](https://medium.com/@toklas495)
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=toklas495&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9" alt="stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=toklas495&theme=github-dark-blue&hide_border=true&background=0d0d0d&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" alt="streak" />
+
+</div>
+
+---
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-toklas495-000000?style=flat-square&logo=github&logoColor=39FF14)](https://github.com/toklas495)
+[![Twitter](https://img.shields.io/badge/Twitter-toklas495-000000?style=flat-square&logo=x&logoColor=39FF14)](https://twitter.com/toklas495)
+
+<br>
 
 ```
-Java → App Dev → Web Dev → Cloud → Network Security → Ethical Hacking
-    → Binary Pentesting → Web Pentesting → Bug Bounty → Backend (Node.js)
+"if a tool doesn't exist, build it.
+ if a doc doesn't exist, write it."
 ```
 
-**40-50 books. Zero courses. Pure self-learning.**
+`$ exit`
 
-My formula: *Download book → Read → Practice → Build projects → Repeat*
-
----
-
-## 📖 Books That Shaped Me
-
-| Tech & Career | Mind & Wealth | Ancient Wisdom |
-|---------------|---------------|----------------|
-| Countless programming books | The Almanack of Naval Ravikant | Vedas |
-| Security & pentesting guides | The Psychology of Money | Samhitas |
-| Backend architecture | | Bhairav Tantra |
-| | | Granths |
-
-> *"Don't just believe what ancestors said — read it, research it, then decide."*
-
----
-
-## ✍️ I Write About
-
-- 🐛 Bug Bounty journeys & writeups
-- 🔧 Tools I build and why
-- 🧘 Ancient wisdom meets modern life
-- 💰 Building passive income through creation
-
-**Read my articles →** [medium.com/@toklas495](https://medium.com/@toklas495) | [dev.to/@toklas495](https://dev.to/toklas495)
-
----
-
-## 💡 Core Beliefs
-
-```
-→ Don't ask for permission to create — just create
-→ Wages are limited, leverage is infinite (code, writing, content)
-→ Trust research, not inherited beliefs
-→ If a tool doesn't exist, you're meant to build it
-→ Read books, not tutorials
-```
-
----
-
-## 🛠️ Tech Stack
-
-```
-Security     →  Burp Suite · OWASP ZAP · Nuclei · ffuf · Custom Scripts
-Languages    →  JavaScript · Python · Bash · Node.js
-Backend      →  Express · Authentication · Authorization · REST APIs
-Tools        →  404ping · FuzzBrust · Socky · 404cli
-```
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=toklas495&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=toklas495&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
-</p>
-
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://medium.com/@toklas495">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/toklas495">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://github.com/toklas495">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
- <a href="https://dev.to/toklas495">
-     <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
- </a>
-</p>
-
----
-
-<p align="center">
-  <b>Building tools by night. Breaking APIs by day. Seeking truth always.</b>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=toklas495&color=blueviolet&style=flat-square&label=Profile+Views" />
-</p>
-
----
-
-<p align="center">
-  <i>॥ शोध करो, फिर विश्वास करो ॥</i><br>
-  <sub>Research first, then believe</sub>
-</p>
+</div>
